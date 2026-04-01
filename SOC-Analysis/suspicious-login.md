@@ -29,3 +29,21 @@ High
 - Force password reset
 - Enable MFA
 - Monitor logs
+
+## Logs Example
+
+Failed login from 185.220.101.4
+Failed login from 185.220.101.4
+Failed login from 185.220.101.4
+Failed login from 185.220.101.4
+
+User: admin
+Status: Failed
+Action: login attempt
+
+## Analyst Notes
+Repeated login attempts detected targeting admin account.
+Behavior consistent with brute force attack.
+
+## Conclusion
+Confirmed malicious activity.
