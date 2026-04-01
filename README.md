@@ -41,4 +41,4 @@ Manual detection of suspicious behavior in logs.
 
 ## Goal
 
-Obtain my first role in Cybersecurity / SOC Analyst.
+I got my first job as a cybersecurity analyst/SOC.
